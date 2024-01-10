@@ -1,6 +1,7 @@
 # Contact
 
-This document provides contact information for Klipper.
+This document provides contact information for the Klipper and 
+Danger Klipper projects.
 
 ## Discourse Forum
 
@@ -11,6 +12,8 @@ Discord.
 
 ## Discord Chat
 
+### Klipper
+
 There is a Discord server dedicated to Klipper at:
 [https://discord.klipper3d.org](https://discord.klipper3d.org). Note
 that Discord is not Discourse.
@@ -19,11 +22,22 @@ This server is run by a community of Klipper enthusiasts dedicated to
 discussions on Klipper. It allows users to chat with other users in
 real-time.
 
+### Danger Klipper
+
+The Danger Klipper project has a home and channel on the Armchair 
+Heavy Industries discord server.
+
+[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
+
+The Armchair Heavy Industries Discord server is not directly 
+associated with the main Klipper project and does not directly stand
+for any of the things said on the Klipper Discord server.
+
 ## I have a question about Klipper
 
 Many questions we receive are already answered in the
-[Danger Klipper](Overview.md). Please be sure to to read the
-documentation and follow the directions provided there.
+[Danger Klipper Overview](Overview.md). Please be sure to to read 
+thedocumentation and follow the directions provided there.
 
 It is also possible to search for similar questions in the
 [Klipper Discourse Forum](#discourse-forum).
